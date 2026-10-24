@@ -7,7 +7,7 @@ local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
 -- Configuration
-local DISCORD_LINK = "https://discord.gg/fkztXnb88"
+local DISCORD_LINK = "https://discord.gg/BzRWS8pmC"
 
 -- Création du ScreenGui
 local screenGui = Instance.new("ScreenGui")
